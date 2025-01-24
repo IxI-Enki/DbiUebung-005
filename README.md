@@ -6,7 +6,8 @@
 
   - <div align="left"> 
     
-    $\Large\color{lime}{Stored Procedure:}$ TRANSFER_MONEY(source in NUMBER, target in NUMBER, amount in NUMBER, balSource out NUMBER, balTarget out NUMBER):
+    $\Large\color{lime}{Stored Procedure:}$  
+      TRANSFER_MONEY( source $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, target $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, amount $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, balSource $\color{crimson}{out\ }\color{royalblue}{NUMBER}$, balTarget $\color{crimson}{out\ }\color{royalblue}{NUMBER}$ ):
     
     - Fertige Ausgabe:  
       > *Erst alle ( Hilfs- )*`FUNCTIONS` *kompilieren, dann kann die Ausgabe ausgeführt werden*!  

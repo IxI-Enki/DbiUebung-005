@@ -105,9 +105,9 @@
         ---
    
         - #### Zusatzaufgabe:
-        ```SQL
-        ALTER TABLE konto 
-          ADD CONSTRAINT valid_balance 
-          CHECK( balance >= 0 );
-        ```
+          ```SQL
+          ALTER TABLE konto 
+            ADD CONSTRAINT valid_balance 
+            CHECK( balance >= 0 );
+          ```
     

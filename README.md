@@ -102,5 +102,12 @@
         -------------------------------------
         END;
         ```
-        
+        ---
+   
+        - #### Zusatzaufgabe:
+        ```SQL
+        ALTER TABLE konto 
+          ADD CONSTRAINT valid_balance 
+          CHECK( balance >= 0 );
+        ```
     

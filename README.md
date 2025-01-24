@@ -12,13 +12,15 @@
     - Fertige Ausgabe:  
     
     </div>
+</div>
 
-  |    Consolen Ausgabe:                               |   
-  |:---------------------------------------------------|  
-  | <img src="img/output.png" alt="output" width=70%>  |  
+<div align="center">  
 
+   |    Consolen Ausgabe:                               |   
+   |:---------------------------------------------------|   
+   | <p align="center"><img src="img/output.png" alt="output" width=70%></p>  |   
 
-  </div>
+</div>
   
   - <p align="left"> Code Snippets: </p>
   

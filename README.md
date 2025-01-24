@@ -4,21 +4,14 @@
   
   # PLSQL - `PROCEDURE` - Konto Überweisung 
 
-  - <div align="left"> 
-    
-    $\Large\color{lime}{Stored Procedure:}$  
-      TRANSFER_MONEY( source $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, target $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, amount $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, balSource $\color{crimson}{out\ }\color{royalblue}{NUMBER}$, balTarget $\color{crimson}{out\ }\color{royalblue}{NUMBER}$ ):
+  <p align="left">  $\Large\color{lime}{Stored Procedure:}$  
+  - TRANSFER_MONEY( source $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, target $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, amount $\color{skyblue}{in\ }\color{royalblue}{NUMBER}$, balSource $\color{crimson}{out\ }\color{royalblue}{NUMBER}$, balTarget $\color{crimson}{out\ }\color{royalblue}{NUMBER}$ ):</p>
+  
+  - <p align="left"> Fertige Ausgabe: </p>
 
-    - Fertige Ausgabe:  
-    
-    </div>
-</div>
-
-<div align="center">  
-
-   |    Consolen Ausgabe:                               |   
-   |:---------------------------------------------------|   
-   | <p align="center"><img src="img/output.png" alt="output" width=70%></p>  |   
+    |    Consolen Ausgabe:                               |   
+    |:---------------------------------------------------|   
+    | <p align="center"><img src="img/output.png" alt="output" width=60%></p>  |   
 
 </div>
   
